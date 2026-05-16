@@ -1,0 +1,7 @@
+Flask
+flask-cors
+aiohttp
+fake-useragent
+colorama
+gunicorn
+Werkzeug
